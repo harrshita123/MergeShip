@@ -460,16 +460,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact & Support
-
-- **Website**: [https://mergeship.com](https://mergeship.com)
-- **Email**: hello@mergeship.com
-- **Twitter**: [@MergeShipHQ](https://twitter.com/MergeShipHQ)
-- **Discord**: [Join our community](https://discord.gg/mergeship)
-- **GitHub Issues**: [Report bugs](https://github.com/yourusername/mergeship/issues)
-
----
-
 ## 📈 Stats & Metrics
 
 - **Active Contributors**: 2,500+
@@ -495,7 +485,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🚀 Quick Links
 
-- [Live Demo](https://mergeship-demo.com)
+- [Live Demo](https://mergeship-foundation.emergent.host)
 - [Documentation](https://docs.mergeship.com)
 - [API Reference](https://api.mergeship.com/docs)
 - [Blog](https://blog.mergeship.com)
